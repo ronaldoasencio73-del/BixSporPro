@@ -1,6 +1,6 @@
 {
-    "version": "1.0",
-    "versionName": "v1.0",
-    "changelog": "- Primera versión\n- Canales TV en vivo\n- Lista M3U Colombia\n- Buscador de canales\n- Auto-reconexión",
+    "version": "2.0",
+    "versionName": "v2.0",
+    "changelog": "- Nueva actualización disponible\n- Mejoras de rendimiento\n- Corrección de errores",
     "apkUrl": "https://github.com/bixsporpro/BixSporPro/releases/latest/download/app.apk"
 }
