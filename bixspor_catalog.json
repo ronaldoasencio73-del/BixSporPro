@@ -120,6 +120,11 @@
       "category": "Deportes"
     },
     {
+      "name": "D Sport",
+      "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
+      "category": "Deportes"
+    },
+    {
       "name": "T & C Sports",
       "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
       "category": "Deportes"
