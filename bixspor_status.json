@@ -4,7 +4,7 @@
   "title": "Aviso",
   "message": "Esta noche habrá mantenimiento del servidor de películas. El TV en vivo sigue activo.",
   "type": "warning",
-  "durationMs": 6000,
+  "durationMs": 10000,
   "minAppVersion": 1,
   "action": { "label": "", "url": "" },
   "updatedAt": "2026-08-17T20:00:00-05:00"
