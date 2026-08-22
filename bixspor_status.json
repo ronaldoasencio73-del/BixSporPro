@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "show": true,
+  "show": false,
   "title": "Aviso",
   "message": "Mantenimiento del servidor de películas. El TV en vivo sigue activo.",
   "type": "warning",
