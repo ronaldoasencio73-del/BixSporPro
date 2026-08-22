@@ -115,6 +115,11 @@
       "category": "Cine"
     },
     {
+      "name": "HBO +",
+      "url": "http://190.61.42.218:9000/play/a00v/index.m3u8",
+      "category": "Cine"
+    },
+    {
       "name": "Ar. Extraterrestres",
       "url": "https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8",
       "category": "Documentales"
