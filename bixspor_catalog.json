@@ -118,6 +118,11 @@
       "name": "Win Sport",
       "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
       "category": "Deportes"
+      },
+    {
+      "name": "Win Sport Basica",
+      "url": "http://190.61.42.218:9000/play/a084/index.m3u8",
+      "category": "Deportes"
     },
     {
       "name": "D Sport",
@@ -127,6 +132,11 @@
     {
       "name": "D Sport 2",
       "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+      "category": "Deportes"
+      },
+    {
+      "name": "Win Sport +",
+      "url": "http://190.61.42.218:9000/play/a01s/index.m3u8",
       "category": "Deportes"
     },
     {
