@@ -1,7 +1,13 @@
 {
   "version": 1,
   "message": "Catálogo v1 — anime, cine y deportes",
-  "lists": [],
+  "lists": [
+    {
+      "name": "Redworld Completo (TODAS las categorías)",
+      "url": "http://redworld.pro:8880/get.php?username=zytnvoicbe&password=ywdaAeq7mAXV&type=m3u_plus",
+      "category": "Redworld"
+    }
+  ],
   "movies": [],
   "tv": [
     {
