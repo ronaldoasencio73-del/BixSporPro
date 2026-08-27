@@ -4,8 +4,13 @@
   "lists": [
     {
       "name": "Redworld Completo (TODAS las categorías)",
-      "url": "http://redworld.pro:8880/get.php?username=zytnvoicbe&password=ywdaAeq7mAXV&type=m3u_plus",
+      "url": "http://redworld.pro:8880/get.php?username=zmqzveazwu&password=BG8G38evFkyP&type=m3u_plus",
       "category": "Redworld"
+    },
+    {
+      "name": "Naruto Completo (clásico + Shippuden + películas)",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Naruto.m3u",
+      "category": "Anime"
     }
   ],
   "movies": [],
@@ -35,6 +40,123 @@
       "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
       "category": "Anime"
     },
+    {
+      "name": "Naruto",
+      "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Pokémon",
+      "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Anime Pluto",
+      "url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Nick Jr",
+      "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+      "category": "Infantil"
+    },
+    {
+      "name": "Nickelodeon Animado",
+      "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+      "category": "Infantil"
+    },
+    {
+      "name": "Pluto Acción",
+      "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Caracol HD",
+      "url": "http://177.234.249.178:8888/CARACOL/index.m3u8",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "Cine Estelar",
+      "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Sony",
+      "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Fox Cine",
+      "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "STAR CHANNEL",
+      "url": "http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Comedia",
+      "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Suspenso",
+      "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Adrenalina",
+      "url": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Aventura",
+      "url": "https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Terror",
+      "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "HBO",
+      "url": "http://190.61.42.218:9000/play/a049/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Ar. Extraterrestres",
+      "url": "https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8",
+      "category": "Documentales"
+    },
+    {
+      "name": "Win Sport Basica",
+      "url": "http://190.61.42.218:9000/play/a084/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "D Sport",
+      "url": "http://191.97.59.33:8000/play/a09t/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "D Sport 2",
+      "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "Win Sport +",
+      "url": "http://190.61.42.218:9000/play/a01s/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "T & C Sports",
+      "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+      "category": "Deportes"
+    }
+  ]
+    }    },
     {
       "name": "Naruto",
       "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
