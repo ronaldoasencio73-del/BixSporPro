@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "show": false,
+  "version": 2,
+  "show": true,
   "title": "Aviso",
-  "message": "Mantenimiento del servidor de películas. El TV en vivo sigue activo.",
+  "message": "Servidor de películas Disponibles Sábados y Domingos. El TV en vivo sigue activo.",
   "type": "warning",
   "durationMs": 0,
   "minAppVersion": 1,
