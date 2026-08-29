@@ -1,40 +1,382 @@
 {
-  "versión": 1,
-  "message": "Catálogo v2 — anime, cine, deportes y Redworld por categorías (GitHub)",
-  "listas": [
+  "version": 1,
+  "message": "Catálogo v2 — anime, cine y deportes + Redworld por categorías (GitHub)",
+  "lists": [
     {
       "name": "Naruto Completo (clásico + Shippuden + películas)",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Naruto.m3u",
-      "categoría": "Anime"
+      "category": "Anime"
     },
     {
-      "nombre": "Serie TODAS",
+      "name": "Series TODAS",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/SERIES_TODAS.m3u",
-      "categoría": "Serie"
+      "category": "Series"
     },
     {
       "name": "Películas TODAS",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/PELICULAS_TODAS.m3u",
-      "categoría": "Películas"
+      "category": "Películas"
     },
     {
-      "nombre": "TV 24/7 + México + Colombia",
+      "name": "TV 24/7 + México + Colombia",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/TV_24-7_Mexico_Colombia.m3u",
-      "categoría": "TV"
+      "category": "TV"
     },
     {
-      "nombre": "Deportes VIP + Argentina + Colombia",
+      "name": "Deportes VIP + Argentina + Colombia",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/DEPORTES_VIP_AR_CO.m3u",
-      "categoría": "Deportes"
+      "category": "Deportes"
     },
     {
-      "nombre": "VIP 24/7",
+      "name": "24/7 VIP",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/247_VIP.m3u",
-      "categoría": "TV"
+      "category": "TV"
     },
     {
-      "nombre": "México TV",
+      "name": "México TV",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/México.m3u",
+      "category": "TV"
+    },
+    {
+      "name": "Colombia TV",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Colombia.m3u",
+      "category": "TV"
+    },
+    {
+      "name": "Deporte VIP",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/DEPORTE_VIP.m3u",
+      "category": "Deportes"
+    },
+    {
+      "name": "Deporte Argentina",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Deporte_Argentina.m3u",
+      "category": "Deportes"
+    },
+    {
+      "name": "Deporte Colombia",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Deporte_Colombia.m3u",
+      "category": "Deportes"
+    },
+    {
+      "name": "Series Anime",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Anime.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Anime Gore",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Anime_Gore.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Infantiles",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Infantiles.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Netflix",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Netflix.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series HBO",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_HBO.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Amazon",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Amazon.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Disney",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Disney.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Chilenas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Chilenas.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Colombianas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Colombianas.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Mexicanas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Mexicanas.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Peruanas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Peruanas.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Narcos",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Narcos.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Retro",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Retro.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Star Plus",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Star_Plus.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Paramount",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Paramount.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Apple TV",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Apple_TV.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series DragonBall",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_DragonBall.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Comedia",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Comedia.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Ciencia Ficción",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Ciencia_Ficción.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Series Turcas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Turcas.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Doramas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Doramas.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Telenovelas Top",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Telenovelas_Top.m3u",
+      "category": "Series"
+    },
+    {
+      "name": "Anime Películas OVAs",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Anime.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Estrenos 2026",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Estrenos_2026.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Películas 2025",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Películas_2025.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Películas 2024",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Películas_2024.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Películas 2023",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Películas_2023.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Cine retro",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Cine_retro.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Acción",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Acción.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Terror",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Terror.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Aventura",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Aventura.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Marvel",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Marvel.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "CINE PREMIUM",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/CINE_PREMIUM.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Infantiles Películas",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Infantiles.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "Navidad 2025",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Navidad_2025.m3u",
+      "category": "Películas"
+    }
+  ],
+  "movies": [],
+  "tv": [
+    {
+      "name": "Avatar",
+      "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Boruto",
+      "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Capitán Tsubasa",
+      "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Tortugas Ninja",
+      "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Naruto Shippuden",
+      "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Naruto",
+      "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Pokémon",
+      "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Anime Pluto",
+      "url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
+      "category": "Anime"
+    },
+    {
+      "name": "Nick Jr",
+      "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+      "category": "Infantil"
+    },
+    {
+      "name": "Nickelodeon Animado",
+      "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+      "category": "Infantil"
+    },
+    {
+      "name": "Pluto Acción",
+      "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Caracol HD",
+      "url": "http://177.234.249.178:8888/CARACOL/index.m3u8",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "Cine Estelar",
+      "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Sony",
+      "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Fox Cine",
+      "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "STAR CHANNEL",
+      "url": "http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Comedia",
+      "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Suspenso",
+      "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Adrenalina",
+      "url": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Aventura",
+      "url": "https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Cine Terror",
+      "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "HBO",
+      "url": "http://190.61.42.218:9000/play/a049/index.m3u8",
+      "category": "Cine"
+    },
+    {
+      "name": "Ar. Extraterrestres",
+      "url": "https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8",
+      "category": "Documentales"
+    },
+    {
+      "name": "Win Sport Basica",
+      "url": "http://190.61.42.218:9000/play/a084/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "D Sport",
+      "url": "http://191.97.59.33:8000/play/a09t/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "D Sport 2",
+      "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "Win Sport +",
+      "url": "http://190.61.42.218:9000/play/a01s/index.m3u8",
+      "category": "Deportes"
+    },
+    {
+      "name": "T & C Sports",
+      "url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+      "category": "Deportes"
+    }
+  ]
+}      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/México.m3u",
       "categoría": "TV"
     },
     {
