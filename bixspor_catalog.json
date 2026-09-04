@@ -460,11 +460,6 @@
       "categoría": "Serie"
     },
     {
-      "name": "Series Mexicanas",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Mexicanas.m3u",
-      "categoría": "Serie"
-    },
-    {
       "nombre": "Serie Narcos",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Narcos.m3u",
       "categoría": "Serie"
@@ -555,18 +550,8 @@
       "categoría": "Películas"
     },
     {
-      "nombre": "Cine Audio España",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Cine_Audio_España.m3u",
-      "categoría": "Películas"
-    },
-    {
       "nombre": "Cine Cantinflas",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Cine_Cantinflas.m3u",
-      "categoría": "Películas"
-    },
-    {
-      "nombre": "Cine Chileno",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Cine_Chileno.m3u",
       "categoría": "Películas"
     },
     {
@@ -637,21 +622,6 @@
     {
       "name": "Peliculas Internet Lentos",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Peliculas_Internet_Lentos.m3u",
-      "categoría": "Películas"
-    },
-    {
-      "nombre": "Peliculas Mexicanas",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Peliculas_Mexicanas.m3u",
-      "categoría": "Películas"
-    },
-    {
-      "nombre": "Peliculas Musicales",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Peliculas_Musicales.m3u",
-      "categoría": "Películas"
-    },
-    {
-      "nombre": "Peliculas Peruanas",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Peliculas_Peruanas.m3u",
       "categoría": "Películas"
     },
     {
