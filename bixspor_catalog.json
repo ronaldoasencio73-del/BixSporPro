@@ -33,11 +33,6 @@
       "category": "TV"
     },
     {
-      "name": "México TV",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/México.m3u",
-      "category": "TV"
-    },
-    {
       "name": "Colombia TV",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Colombia.m3u",
       "category": "TV"
@@ -60,11 +55,6 @@
     {
       "name": "Series Anime",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Anime.m3u",
-      "category": "Series"
-    },
-    {
-      "name": "Series Anime Gore",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Anime_Gore.m3u",
       "category": "Series"
     },
     {
@@ -93,23 +83,8 @@
       "category": "Series"
     },
     {
-      "name": "Series Chilenas",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Chilenas.m3u",
-      "category": "Series"
-    },
-    {
       "name": "Series Colombianas",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Colombianas.m3u",
-      "category": "Series"
-    },
-    {
-      "name": "Series Mexicanas",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Mexicanas.m3u",
-      "category": "Series"
-    },
-    {
-      "name": "Series Peruanas",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Series_Peruanas.m3u",
       "category": "Series"
     },
     {
