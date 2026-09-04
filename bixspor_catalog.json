@@ -1,35 +1,35 @@
 {
   "version": 5,
-  "message": "Catálogo v5 — 6 listas en /listados + 28 canales individuales (sin M3U por categoría)",
+  "message": "Catálogo v5 — 6 listas en la raíz + 28 canales individuales",
   "lists": [
     {
       "name": "Naruto Completo (clásico + Shippuden + películas + 24/7)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/listados/Naruto.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Naruto.m3u",
       "category": "Anime"
     },
     {
       "name": "Series TODAS (solo categorías elegidas)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/listados/SERIES_TODAS.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/SERIES_TODAS.m3u",
       "category": "Series"
     },
     {
       "name": "Películas TODAS (sin CL/PE/MX/AR/ES ni conciertos)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/listados/PELICULAS_TODAS.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/PELICULAS_TODAS.m3u",
       "category": "Películas"
     },
     {
       "name": "Anime Series (sin Gore)",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/listados/ANIME_SERIES.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/ANIME_SERIES.m3u",
       "category": "Anime"
     },
     {
       "name": "24/7 VIP",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/listados/TV_24-7_VIP.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/TV_24-7_VIP.m3u",
       "category": "TV"
     },
     {
       "name": "Deportes VIP + Argentina + Colombia",
-      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/listados/DEPORTES_VIP_AR_CO.m3u",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/DEPORTES_VIP_AR_CO.m3u",
       "category": "Deportes"
     }
   ],
