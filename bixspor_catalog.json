@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "message": "Catálogo v6 — 7 listas en la raíz + 28 canales individuales (Marvel añadido)",
+  "message": "Catálogo v6 — 8 listas en la raíz + series Amazon añadidas",
   "lists": [
     {
       "name": "Naruto Completo (clásico + Shippuden + películas + 24/7)",
@@ -36,6 +36,11 @@
       "name": "Deportes VIP + Argentina + Colombia",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/DEPORTES_VIP_AR_CO.m3u",
       "category": "Deportes"
+    },
+    {
+      "name": "⭐️ Series Amazon (Fiebre de primavera, El infiltrado, Beast Games, Mr. Robot, The Boys y más)",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/series_amazon.m3u",
+      "category": "Series"
     }
   ],
   "movies": [],
