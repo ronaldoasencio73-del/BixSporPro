@@ -1,10 +1,15 @@
 {
-  "version": 6,
-  "message": "Catálogo v6 — 8 listas en la raíz + series Amazon añadidas",
+  "version": 7,
+  "message": "Catálogo v7 — 9 listas en la raíz (Dragon Ball series + películas)",
   "lists": [
     {
       "name": "Naruto Completo (clásico + Shippuden + películas + 24/7)",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/Naruto.m3u",
+      "category": "Anime"
+    },
+    {
+      "name": "Dragon Ball Completo (series por capítulos + películas)",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/DragonBall_Completo.m3u",
       "category": "Anime"
     },
     {
