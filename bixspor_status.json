@@ -1,11 +1,14 @@
 {
-  "version": 2,
-  "show": true,
-  "title": "Aviso",
-  "message": "Se agrega Soporte para quejas, bug, ideas etc, Click y te envía al grupo / Tv+ activo las 24/7.",
-  "type": "warning",
-  "durationMs": 0,
-  "minAppVersion": 1,
-  "action": { "label": "Entendido", "url": "" },
-  "updatedAt": "2026-08-17T13:41:00-05:00"
+"version": 2,
+"show": true,
+"title": "Aviso",
+"message": "Se agrega soporte para reportar bugs, compartir ideas y enviar comentarios. ¡TV+ está activo las 24/7!",
+"type": "warning",
+"durationMs": 0,
+"minAppVersion": 1,
+"action": {
+"label": "Entendido",
+"url": ""
+},
+"updatedAt": "2026-08-17T13:41:00-05:00"
 }
