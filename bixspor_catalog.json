@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "message": "Catálogo v7 — 9 listas en la raíz (Dragon Ball series + películas)",
+  "version": 10,
+  "message": "Catálogo v10 — 28 sep 2026: listas filtradas + Estrenos 2026 (374) + canales individuales",
   "lists": [
     {
       "name": "Naruto Completo (clásico + Shippuden + películas + 24/7)",
@@ -13,13 +13,18 @@
       "category": "Anime"
     },
     {
-      "name": "Series TODAS (solo categorías elegidas)",
+      "name": "Series TODAS (sin Retro, Doramas, CL/MX/PE/TR, Gore)",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/SERIES_TODAS.m3u",
       "category": "Series"
     },
     {
-      "name": "Películas TODAS (sin CL/PE/MX/AR/ES ni conciertos)",
+      "name": "Películas TODAS (sin Cine retro, Aventura, Conciertos, CL/AR/ES/MX/PE)",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/PELICULAS_TODAS.m3u",
+      "category": "Películas"
+    },
+    {
+      "name": "⭐️ Estrenos 2026 (374 — URLs /movie/ OK)",
+      "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/ESTRENOS_2026.m3u",
       "category": "Películas"
     },
     {
@@ -28,7 +33,7 @@
       "category": "Películas"
     },
     {
-      "name": "Anime Series (sin Gore)",
+      "name": "Anime Series (sin Gore) + DragonBall",
       "url": "https://raw.githubusercontent.com/ronaldoasencio73-del/BixSporPro/main/ANIME_SERIES.m3u",
       "category": "Anime"
     },
@@ -147,7 +152,7 @@
     },
     {
       "name": "Cine Aventura",
-      "url": "http://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
+      "url": "https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
       "category": "Cine"
     },
     {
